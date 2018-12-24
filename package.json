@@ -1,0 +1,22 @@
+{
+  "name": "graphql_react_apollo_demo",
+  "version": "1.0.0",
+  "description": "SpaceX demo follow Traversy Media tutorial link: https://www.youtube.com/watch?v=SEMTj8w04Z8",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Phong Ly",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
