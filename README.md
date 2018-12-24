@@ -9,6 +9,7 @@
 + moment, react-moment used to handle time value
 + classnames handle className for element
 + react-router-dom handle router
++ add proxy for server and make script to build client to public in server folder
 
 ## Part 1: https://www.youtube.com/watch?v=SEMTj8w04Z8
 + Remember to install graphql
@@ -26,4 +27,6 @@
 + npm i classnames moment react-moment [in client folder]
 + npm i react-router-dom [in client folder]
 
+## Part 4: https://www.youtube.com/watch?v=ok6bu-3XRA8 [Deploy to heroku]
++ install heroku cli if not exists
 
